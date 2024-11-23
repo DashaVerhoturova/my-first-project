@@ -1,0 +1,15 @@
+C:\Users\dverh\Documents\GitHub\my-first-project\stroci\stroci\bin\Debug\net8.0\stroci.exe
+C:\Users\dverh\Documents\GitHub\my-first-project\stroci\stroci\bin\Debug\net8.0\stroci.deps.json
+C:\Users\dverh\Documents\GitHub\my-first-project\stroci\stroci\bin\Debug\net8.0\stroci.runtimeconfig.json
+C:\Users\dverh\Documents\GitHub\my-first-project\stroci\stroci\bin\Debug\net8.0\stroci.dll
+C:\Users\dverh\Documents\GitHub\my-first-project\stroci\stroci\bin\Debug\net8.0\stroci.pdb
+C:\Users\dverh\Documents\GitHub\my-first-project\stroci\stroci\obj\Debug\net8.0\stroci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dverh\Documents\GitHub\my-first-project\stroci\stroci\obj\Debug\net8.0\stroci.AssemblyInfoInputs.cache
+C:\Users\dverh\Documents\GitHub\my-first-project\stroci\stroci\obj\Debug\net8.0\stroci.AssemblyInfo.cs
+C:\Users\dverh\Documents\GitHub\my-first-project\stroci\stroci\obj\Debug\net8.0\stroci.csproj.CoreCompileInputs.cache
+C:\Users\dverh\Documents\GitHub\my-first-project\stroci\stroci\obj\Debug\net8.0\stroci.sourcelink.json
+C:\Users\dverh\Documents\GitHub\my-first-project\stroci\stroci\obj\Debug\net8.0\stroci.dll
+C:\Users\dverh\Documents\GitHub\my-first-project\stroci\stroci\obj\Debug\net8.0\refint\stroci.dll
+C:\Users\dverh\Documents\GitHub\my-first-project\stroci\stroci\obj\Debug\net8.0\stroci.pdb
+C:\Users\dverh\Documents\GitHub\my-first-project\stroci\stroci\obj\Debug\net8.0\stroci.genruntimeconfig.cache
+C:\Users\dverh\Documents\GitHub\my-first-project\stroci\stroci\obj\Debug\net8.0\ref\stroci.dll

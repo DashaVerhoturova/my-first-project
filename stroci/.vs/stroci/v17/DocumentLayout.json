@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dverh\\Documents\\GitHub\\my-first-project\\stroci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0A316A-F5FE-4ED3-A3D7-D2A321FE6AE8}|stroci\\stroci.csproj|c:\\users\\dverh\\documents\\github\\my-first-project\\stroci\\stroci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0A316A-F5FE-4ED3-A3D7-D2A321FE6AE8}|stroci\\stroci.csproj|solutionrelative:stroci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dverh\\Documents\\GitHub\\my-first-project\\stroci\\stroci\\Program.cs",
+              "RelativeDocumentMoniker": "stroci\\Program.cs",
+              "ToolTip": "C:\\Users\\dverh\\Documents\\GitHub\\my-first-project\\stroci\\stroci\\Program.cs",
+              "RelativeToolTip": "stroci\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:33:47.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
