@@ -27,7 +27,7 @@
               "RelativeDocumentMoniker": "..\\MyLibrary\\MyLibrary\\Class1.cs",
               "ToolTip": "C:\\Users\\dverh\\Documents\\GitHub\\my-first-project\\MyLibrary\\MyLibrary\\Class1.cs",
               "RelativeToolTip": "..\\MyLibrary\\MyLibrary\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T05:43:23.366Z",
               "EditorCaption": ""
@@ -40,9 +40,10 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\dverh\\Documents\\GitHub\\my-first-project\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T05:38:07.326Z"
+              "WhenOpened": "2024-11-21T05:38:07.326Z",
+              "EditorCaption": ""
             }
           ]
         }

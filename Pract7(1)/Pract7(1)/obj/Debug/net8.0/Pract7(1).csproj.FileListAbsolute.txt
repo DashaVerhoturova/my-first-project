@@ -1,0 +1,15 @@
+C:\Users\dverh\Documents\GitHub\my-first-project\Pract7(1)\Pract7(1)\bin\Debug\net8.0\Pract7(1).exe
+C:\Users\dverh\Documents\GitHub\my-first-project\Pract7(1)\Pract7(1)\bin\Debug\net8.0\Pract7(1).deps.json
+C:\Users\dverh\Documents\GitHub\my-first-project\Pract7(1)\Pract7(1)\bin\Debug\net8.0\Pract7(1).runtimeconfig.json
+C:\Users\dverh\Documents\GitHub\my-first-project\Pract7(1)\Pract7(1)\bin\Debug\net8.0\Pract7(1).dll
+C:\Users\dverh\Documents\GitHub\my-first-project\Pract7(1)\Pract7(1)\bin\Debug\net8.0\Pract7(1).pdb
+C:\Users\dverh\Documents\GitHub\my-first-project\Pract7(1)\Pract7(1)\obj\Debug\net8.0\Pract7(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dverh\Documents\GitHub\my-first-project\Pract7(1)\Pract7(1)\obj\Debug\net8.0\Pract7(1).AssemblyInfoInputs.cache
+C:\Users\dverh\Documents\GitHub\my-first-project\Pract7(1)\Pract7(1)\obj\Debug\net8.0\Pract7(1).AssemblyInfo.cs
+C:\Users\dverh\Documents\GitHub\my-first-project\Pract7(1)\Pract7(1)\obj\Debug\net8.0\Pract7(1).csproj.CoreCompileInputs.cache
+C:\Users\dverh\Documents\GitHub\my-first-project\Pract7(1)\Pract7(1)\obj\Debug\net8.0\Pract7(1).sourcelink.json
+C:\Users\dverh\Documents\GitHub\my-first-project\Pract7(1)\Pract7(1)\obj\Debug\net8.0\Pract7(1).dll
+C:\Users\dverh\Documents\GitHub\my-first-project\Pract7(1)\Pract7(1)\obj\Debug\net8.0\refint\Pract7(1).dll
+C:\Users\dverh\Documents\GitHub\my-first-project\Pract7(1)\Pract7(1)\obj\Debug\net8.0\Pract7(1).pdb
+C:\Users\dverh\Documents\GitHub\my-first-project\Pract7(1)\Pract7(1)\obj\Debug\net8.0\Pract7(1).genruntimeconfig.cache
+C:\Users\dverh\Documents\GitHub\my-first-project\Pract7(1)\Pract7(1)\obj\Debug\net8.0\ref\Pract7(1).dll
